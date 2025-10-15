@@ -65,3 +65,5 @@ ng add @angular/material@19.0.4
 ng add @angular/flex-layout@15.0.0-beta.42
 
 ng add uuid@11.0.2
+
+ng generate service 
