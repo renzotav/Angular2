@@ -7,6 +7,9 @@ nome?: string;
 cpf?: string;
 dataNascimento?: string;
 email?: string;
+deletando: boolean = false;
+uf?: string;
+municipio?: string;
 
 static newCliente(){
 
